@@ -1,0 +1,15 @@
+Design Hierarchy
+
+
+----------------
+SCORE  LINE   COND   TOGGLE BRANCH ASSERT        
+ 97.50 100.00 100.00  87.50 100.00 100.00 tb_top 
+  
+  ----------------
+  SCORE  LINE   COND   TOGGLE BRANCH ASSERT     
+   97.50 100.00 100.00  87.50 100.00 100.00 dut 
+    
+    ----------------
+    SCORE  LINE   COND   TOGGLE BRANCH ASSERT                   
+    100.00 --     --     --     --     100.00 fifo_assertions_i 
+

@@ -1,0 +1,15 @@
+Design Module List
+
+Total Module Definition Coverage Summary 
+SCORE  LINE   COND   TOGGLE BRANCH ASSERT 
+ 94.64 100.00 100.00  87.50 100.00  85.71 
+
+
+Total modules in report: 4
+-------------------------------------------------------------------------------
+SCORE  LINE   COND   TOGGLE BRANCH ASSERT NAME            
+  0.00 --     --     --     --       0.00 uvm_pkg         
+ 96.88 100.00 100.00  87.50 100.00 --     async_fifo      
+100.00 --     --     --     --     100.00 fifo_assertions 
+--     --     --     --     --     --     tb_top          
+

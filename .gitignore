@@ -1,0 +1,46 @@
+# VCS compile / simulation
+simv
+simv.*
+*.daidir/
+csrc/
+ucli.key
+vc_hdrs.h
+
+# Simulation logs
+*.log
+
+# Coverage database / reports
+*.vdb/
+*.vdb
+merged_cov_text/
+merged_cov_report/
+*_cov_report/
+sva_cov_report/
+sva_cov_text/
+
+# Waveforms
+*.fsdb
+*.vpd
+*.vcd
+
+# Verdi generated files
+novas.conf
+novas.rc
+verdiLog/
+debussyLog/
+*.log.*
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.tmp
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Python cache if scripts are added later
+__pycache__/
+*.pyc

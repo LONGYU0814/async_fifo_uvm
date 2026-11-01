@@ -1,0 +1,28 @@
+Dashboard
+
+Date: Sun Nov  1 14:19:43 2026
+
+User: longyu
+
+Version: O-2018.09-SP2
+Command line: urg -dir simv.vdb -dir check_code.vdb -metric line+cond+branch+tgl+assert -format text -report check_code_report 
+
+Number of tests: 2
+
+-------------------------------------------------------------------------------
+Total Coverage Summary 
+SCORE  LINE   COND   TOGGLE BRANCH ASSERT 
+ 97.50 100.00 100.00  87.50 100.00 100.00 
+
+
+-------------------------------------------------------------------------------
+Hierarchical coverage data for top-level instances 
+SCORE  LINE   COND   TOGGLE BRANCH ASSERT NAME   
+ 97.50 100.00 100.00  87.50 100.00 100.00 tb_top 
+
+
+-------------------------------------------------------------------------------
+Total Module Definition Coverage Summary 
+SCORE  LINE   COND   TOGGLE BRANCH ASSERT 
+ 94.64 100.00 100.00  87.50 100.00  85.71 
+
